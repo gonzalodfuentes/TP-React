@@ -1,0 +1,63 @@
+body {
+    overflow-x: hidden;
+}
+
+header {
+    background: rgb(0,0,0);
+    color: white;
+    text-align: center;
+    padding: 40px 20px 20px;
+    font-family: sans-serif;
+    margin: auto;
+}
+
+h1 {
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+.comentarios {
+    font-family: cursive;
+    font-size: 18px;
+    width: 120px;
+    height: 10px;
+    color: rgb(20,40,30);
+    background-color: rgb(145,145,145);
+    text-decoration: none;
+    padding: 15px;
+    margin: 10px;
+}
+
+.comentarios:hover {
+    color: rgb(100,200,230);
+    background-color: rgb(0,60,100);
+}
+
+.code {
+    font-family: cursive;
+    font-size: 18px;
+    width: 120px;
+    height: 75px;
+    color: rgb(20,40,30);
+    background-color: rgb(145,145,145);
+    text-decoration: none;
+    padding: 15px 28px 15px 28px;
+    margin: 10px;
+}
+
+.code:hover {
+    color: rgb(100,200,230);
+    background-color: rgb(0,60,100);
+}
+
+.administrador {
+    margin-top: 20px;
+}
+
+.coment {
+    font-family: fantasy;
+    font-size: 100px;
+    text-align: center;
+    border: 12px dotted rgb(100,100,100);
+    color: rgb(60,60,60);
+}
